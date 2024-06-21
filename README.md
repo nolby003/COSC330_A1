@@ -1,1 +1,3 @@
+# Parallel Search Keyspace
+File: parallel_search_keyspace.c
 ### Program demonstrates the use of pipes (ring of processes) to brute-force search for an AES encryption key given a partial key.
